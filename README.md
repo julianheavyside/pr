@@ -1,5 +1,7 @@
 # pr
 
+*These are the wonderful students in my class*
+
 @DeirdreLoughnan  
 @julianheavyside  
 @EvgeniyaYangel  
